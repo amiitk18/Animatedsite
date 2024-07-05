@@ -1,2 +1,2 @@
 # Animatedsite
-//shery.js used
+
